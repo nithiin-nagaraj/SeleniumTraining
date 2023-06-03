@@ -1,0 +1,14 @@
+15:23:29.107 [main] INFO  testCases.TC_01_LoginPage_Test - ********* Starting TC_01_LoginPage_Test ******
+15:23:29.461 [main] INFO  testCases.TC_01_LoginPage_Test - Login Success
+15:23:40.747 [main] INFO  testCases.TC_02_ProductsPage_Test - ********* Starting TC_1_LoginPage_Test ******
+15:23:41.094 [main] INFO  testCases.TC_02_ProductsPage_Test - Login Success
+15:23:41.094 [main] INFO  testCases.TC_02_ProductsPage_Test - ********* TC_2_ProductsPage_Test ******
+15:23:41.304 [main] INFO  testCases.TC_02_ProductsPage_Test - Products Added Success
+15:25:25.686 [main] INFO  testCases.TC_02_ProductsPage_Test - ********* Starting TC_1_LoginPage_Test ******
+15:25:26.014 [main] INFO  testCases.TC_02_ProductsPage_Test - Login Success
+15:25:26.014 [main] INFO  testCases.TC_02_ProductsPage_Test - ********* TC_2_ProductsPage_Test ******
+15:25:26.215 [main] INFO  testCases.TC_02_ProductsPage_Test - Products Added Success
+15:28:22.350 [main] INFO  testCases.TC_02_ProductsPage_Test - ********* Starting TC_1_LoginPage_Test ******
+15:28:22.698 [main] INFO  testCases.TC_02_ProductsPage_Test - Login Success
+15:28:22.698 [main] INFO  testCases.TC_02_ProductsPage_Test - ********* TC_2_ProductsPage_Test ******
+15:28:22.903 [main] INFO  testCases.TC_02_ProductsPage_Test - Products Added Success
